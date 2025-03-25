@@ -1,0 +1,26 @@
+{ 	
+	"nbApproaches":1,
+	"baselineName":"Baseline",
+	"approachNames":
+	[
+		"Extended Model"
+	],
+	"nbInstances":3,
+	"labels" : [
+					"Label1",
+					"Label2"
+	],
+	"instanceLabelIndices" : [[0],[1],[0,1]],
+	"baseline":{
+					"times":[10,5,20],
+				   "backtracks":[50,40,80]
+				},
+	"models":	[	
+					{
+					   "times":[5,3,30],
+					   "backtracks":[20,10,70],
+					   "phiPruningTimes":[1,0.5,11],
+					   "phiNonPruningTimes":[1.5,1,17]
+	                }
+    			]
+}

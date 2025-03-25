@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">   
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="page perso">
+  <meta name="Pierre Schaus" content="page perso">
+
+  <!-- Le styles -->
+  <link href="assets/css/bootstrap.css" type="text/css" rel="stylesheet">
+
+  
+  <script type="text/javascript" src="assets/js/jquery.min.js"></script>
+  <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="assets/js/scripts.js"></script>
+  <link href="assets/css/prettify.css" type="text/css" rel="stylesheet" />
+  <script type="text/javascript" src="assets/js/prettify.js"></script>   
+</head>
+<body>
+
+   
+   
+<div class="container">
+   	<div class="row clearfix">
+   		<div class="col-md-12 column">
+   			<nav class="navbar navbar-default" role="navigation">
+   				<div class="navbar-header">
+   					 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> 
+                      <span class="sr-only">Toggle navigation</span>
+                      <span class="icon-bar"></span>
+                   </button> 
+                   <a class="navbar-brand" href="index.html">Home</a>
+   				</div>
+				
+   				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+   					<ul class="nav navbar-nav">   
+                     <li><a href="software.html">Software</a></li>
+                     <li><a href="phd.html">Team & Thesis</a></li>
+                     <li><a href="publications.html">Publications</a></li>
+                     <li><a href="reviewing.html">Service</a></li>
+                     <li><a href="teaching.html">Teaching</a></li>
+                     <li><a href="contact.html">Contact</a></li>
+                  </ul>
+               </div>
+            </nav>   
+       <div class="container">
+
+        <h2>{{ title }}</h2>
+           {{ content }}
+ 
+       </div> 
+	  </div>
+	</div>
+</div>
+
+  <!-- /container -->
+
+
+  
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-35839394-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+    
+</body>
+</html>

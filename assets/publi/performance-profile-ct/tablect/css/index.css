@@ -1,0 +1,17 @@
+.custom-background {
+    background-color: #f8f8f8;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+.nvd3 text {
+    font: normal 18px Arial;
+}
+
+.nv-axislabel {
+	font: normal 24px Arial !important;
+}
+
+.nvd3 g.nv-groups path.nv-line {
+  stroke-width: 3px;
+}

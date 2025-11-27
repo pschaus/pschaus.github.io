@@ -1,0 +1,642 @@
+- year: Working papers
+  papers:
+    - title: "ICLF: An Immersive Code Learning Framework based on Git for Teaching and Evaluating Student Programming Projects"
+      authors: "Pierre Schaus, Guillaume Derval, Augustin Delecluse"
+      venue:
+      link: "assets/publi/iclf.pdf"
+      code:
+    - title: "Solving the Aircraft Disassembly Scheduling Problem"
+      authors: "Charles Thomas and Pierre Schaus"
+      venue:
+      link: "assets/publi/aircraft.pdf"
+      code:
+    - title: "Sequence Variables: A Constraint Programming Computational Domain for Routing and Sequencing"
+      authors: "Augustin Delcluse, Pierre Schaus, Pascal Van Hentenryck"
+      venue:
+      link: "assets/publi/seqvars.pdf"
+      code:
+
+- year: 2025
+  papers:
+    - title: "Modeling and Solving a Composite Structure Design Problem with Constraint Programming"
+      authors: "Miguel Antoons, Augustin Delecluse, Samih Zein, and Pierre Schaus"
+      venue: "The 31st International Conference on Principles and Practice of Constraint Programming (CP 2025), Glasgow, Scotland"
+      link: "assets/publi/cp2025-composite.pdf"
+      code: "https://github.com/augustindelecluse/composite_structure"
+    - title: "A Dynamic Programming Approach for the Job Sequencing and Tool Switching Problem"
+      authors: "Emma Legrand, Vianney Coppé, Daniele Catanzaro, and Pierre Schaus"
+      venue: "22nd International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR 2025) (Best Student Paper Award), Melbourne, Australia"
+      link: "assets/publi/cpaior2025-toolswitching.pdf"
+      code: "https://github.com/emmalegrand/JS-TSP"
+
+- year: 2024
+  papers:
+    - title: "Efficient Lookahead Decision Trees"
+      authors: "Harold Kiossou, Pierre Schaus, Siegfried Nijssen, Gaël Aglin"
+      venue: "22nd International Symposium on Intelligent Data Analysis (IDA 2024), Stockholm, Sweden"
+      link: "assets/publi/ida2024_efficient_lookehead_decision_trees.pdf"
+      code: "https://github.com/haroldks/pytrees"
+    - title: "Modeling and Exploiting Dominance Rules for Discrete Optimization with Decision Diagrams"
+      authors: "Vianney Coppé, Xavier Gillard, Pierre Schaus"
+      venue: "21st International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR 2024), Uppsala, Sweden"
+      link: "assets/publi/cpaior2024_dominance.pdf"
+      code: "https://github.com/xgillard/ddo"
+    - title: "A Constraint Programming Approach for Aircraft Disassembly Scheduling"
+      authors: "Charles Thomas, Pierre Schaus"
+      venue: "21st International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR 2024), Uppsala, Sweden"
+      link: "assets/publi/cpaior2024_aircraft.pdf"
+      code:
+    - title: "An Exploration of Exact Methods for Effective Network Failure Detection and Diagnosis"
+      authors: "Auguste Burlats, Pierre Schaus, Cristel Pelsser"
+      venue: "21st International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR 2024), Uppsala, Sweden"
+      link: "assets/publi/cpaior2024_monitor_nodes.pdf"
+      code:
+    - title: "An Efficient Structured Perceptron for NP-hard Combinatorial Optimization Problems"
+      authors: "Bastián Véjar, Gaël Aglin, Ali İrfan Mahmutoğulları, Siegfried Nijssen, Pierre Schaus, Tias Guns"
+      venue: "21st International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR 2024), Uppsala, Sweden"
+      link: "assets/publi/cpaior2024_structured_perceptron.pdf"
+      code:
+    - title: "Decision Diagram-Based Branch-and-Bound with Caching for Dominance and Suboptimality Detection"
+      authors: "Vianney Coppé, Xavier Gillard, Pierre Schaus"
+      venue: "INFORMS Journal on Computing."
+      link: "assets/publi/JOC2023-caching.pdf"
+      code: "https://github.com/xgillard/ddo"
+    - title: "Impact of Weather Factors on Migration Intention using Machine Learning Algorihtms"
+      authors: "John Aoga, Juhee Bae, Stefanija Veljanoska, Siegfried Nijssen, Pierre Schaus"
+      venue: "Operations Research Forum, Springer"
+      link: "assets/publi/2024_sn_or_weather_impact.pdf"
+      code:
+
+- year: 2023
+  papers:
+    - title: "Boosting Decision Diagram-Based Branch-and-Bound by Pre-Solving with Aggregate Dynamic Programming"
+      authors: "Vianney Coppé, Xavier Gillard, Pierre Schaus"
+      venue: "29th International Conference on Principles and Practice of Constraint Programming (CP 2023), Toronto, Canada."
+      link: "assets/publi/cp2023_aggregation.pdf"
+      code:
+    - title: "Probabilistic Inference by Projected Weighted Model Counting on Horn Clauses"
+      authors: "Alexandre Dubray, Pierre Schaus, Siegfried Nijssen"
+      venue: "29th International Conference on Principles and Practice of Constraint Programming (CP 2023), Toronto, Canada."
+      link: "assets/publi/cp2023_schlandals.pdf"
+      code: "https://github.com/aia-uclouvain/schlandals"
+    - title: "Partitioning a Map into Homogeneous Contiguous Regions: A Branch-And-Bound Approach Using Decision Diagrams"
+      authors: "Nicolas Golenvaux, Xavier Gillard, Siegfried Nijssen, Pierre Schaus"
+      venue: "29th International Conference on Principles and Practice of Constraint Programming (CP 2023), Toronto, Canada."
+      link: "assets/publi/cp2023_map_partitioning.pdf"
+      code:
+
+- year: 2022
+  papers:
+    - title: "Learning Optimal Decision Trees Under Memory Constraints"
+      authors: "Gaël Aglin, Siegfried Nijssen, Pierre Schaus"
+      venue: "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD2022), Grenoble France."
+      link: "assets/publi/ecml_pkdd2022_dl85_memory_constraint.pdf"
+      code:
+    - title: "Time constrained DL8.5 using Limited Discrepancy Search"
+      authors: "Harold Kiossou, Pierre Schaus, Siegfried Nijssen, Vinasetan Ratheil Houndji"
+      venue: "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD2022), Grenoble France."
+      link: "assets/publi/ecml_pkdd2022_lds_dl85.pdf"
+      code:
+    - title: "Large Neighborhood Search with Decision Diagrams"
+      authors: "Xavier Gillard, Pierre Schaus"
+      venue: "The 31st International Joint Conference on Artificial Intelligence (IJCAI22), Vienna, Austria."
+      link: "assets/publi/ijcai22_lns_mdd.pdf"
+      code: "https://github.com/xgillard/ddo"
+    - title: "Sequence Variables for Routing Problems"
+      authors: "Augustin Delecluse, Pierre Schaus, Passcal Van Hentenryck"
+      venue: "The 28th International Conference on Principles and Practice of Constraint Programming (CP2022), HAIFA, ISRAEL."
+      link: "assets/publi/cp2022_sequence_var.pdf"
+      code: "https://anonymous.4open.science/r/minicp-sequences-5EE3/README.md"
+    - title: "Solving the Constrained Single-Row Facility Layout Problem with Decision Diagrams"
+      authors: "Vianney Coppé, Xavier Gillard, Pierre Schaus"
+      venue: "The 28th International Conference on Principles and Practice of Constraint Programming (CP2022), HAIFA, ISRAEL."
+      link: "assets/publi/cp2022_srflp_mdd.pdf"
+      code: "https://github.com/vcoppe/csrflp-dd"
+    - title: "A Conflict Avoidance Table for Continuous Conflict-Based Search"
+      authors: "Vianney Coppé, Pierre Schaus"
+      venue: "Fifteenth International Symposium on Combinatorial Search SOCS (2022), Vienna, Austria"
+      link: "assets/publi/socs2022_conflict_based_search.pdf"
+      code:
+    - title: "Cross-border mobility responses to COVID-19 in Europe: new evidence from facebook data"
+      authors: "Fredéric Docquier, Nicolas Golenvaux, Siegfried Nijssen, Pierre Schaus & Felix Stips"
+      venue: "BMC Journal Globalization and Health (2022)"
+      link: "assets/publi/facebook_covid_2022.pdf"
+      code:
+    - title: "Optimal Decoding of Hidden Markov Models With Consistency Constraints"
+      authors: "Alexandre Dubray, Guillaume Derval, Siegfried Nijssen1, and Pierre Schaus"
+      venue: "25th International Conference on Discovery Science (DS-2022), Montpellier France."
+      link: "assets/publi/ds2022_hmm_with_constraints.pdf"
+      code:
+
+- year: 2021
+  papers:
+    - title: "Global migration in the twentieth and twenty‐first centuries: the unstoppable force of demography"
+      authors: "Thu Hien Dao, Frédéric Docquier, Mathilde Maurel and Pierre Schaus"
+      venue: "Review of World Economics volume 157, pages 417–449 (2021)"
+      link: "assets/publi/reviewofworldeconomics2021.pdf"
+      code:
+    - title: "Investigating the drivers of the spatio-temporal heterogeneity in COVID-19 hospital incidence—Belgium as a study case"
+      authors: "Simon Dellicour, Catherine Linard, Nina Van Goethem, Daniele Da Re, Jean Artois, Jérémie Bihin, Pierre Schaus, François Massonnet, Herman Van Oyen, Sophie O. Vanwambeke, Niko Speybroeck and Marius Gilbert"
+      venue: "BMC International Journal of Health Geographics"
+      link: "assets/publi/bmc2020_covid_hospi_be.pdf"
+      code:
+    - title: "Improving the Filtering of Branch-and-Bound MDD Solver (Best Student Paper Award)"
+      authors: "Xavier Gillard, Vianney Coppé, Pierre Schaus, André Augusto Ciré"
+      venue: "18th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR21), Vienna, Austria"
+      link: "assets/publi/cpaior21_mdd.pdf"
+      code:
+    - title: "A Seriation Based Framework to Visualize Multiple Aspects of Road Transport from GPS Trajectories"
+      authors: "Alexandre Dubray, Siegfried Nijssen, Isabelle Thomas and Pierre Schaus"
+      venue: "24th IEEE International Conference on Intelligent Transportation - ITSC2021 (ITSC2021), Indianapolis, IN, United States"
+      link: "assets/publi/itsc2021.pdf"
+      code:
+    - title: "Learning Optimal Decision Trees using Constraint Programming"
+      authors: "Hélène Verhaeghe, Siegfried Nijssen, Gilles Pesant, Claude-Guy Quimper, Pierre Schaus"
+      venue: "Constraints Journal."
+      link: "assets/publi/constraints20-optimal-decision-trees.pdf"
+      code:
+    - title: "MiniCP: A Lightweight Solver for Constraint Programming"
+      authors: "Laurent Michel, Pierre Schaus, Pascal Van Hentenryck"
+      venue: "Mathematical Programming Computation Springer Journal."
+      link: "assets/publi/mini-cp.pdf"
+      code: "www.minicp.org"
+    - title: "Generic Constraint-based Block Modeling using Constraint Programming"
+      authors: "Alex Mattenet, Ian Davidson, Siegfried Nijssen, Pierre Schaus"
+      venue: "Journal of Artificial Intelligence Research (JAIR)"
+      link: "assets/publi/jair21-blockmodeling.pdf"
+      code:
+    - title: "Are Travel Bans the Answer to Stopping the Spread of COVID-19 Variants? Lessons from a Multi-Country SIR Model"
+      authors: "Frederic Docquier, Nicolas Golenvaux, Siegfried Nijssen, Pierre Schaus"
+      venue: "ArXiv"
+      link: "assets/publi/sir_migration_simulation_covid.pdf"
+      code:
+
+- year: 2020
+  papers:
+    - title: "Mining Constrained Regions of Interest: An Optimization Approach"
+      authors: "Alexandre Dubray, Guillaume Derval, Siegfried Nijssen, Pierre Schaus"
+      venue: "23rd International Conference on Discovery Science at DS2020"
+      link: "assets/publi/ds2020_roi.pdf"
+      code:
+    - title: "PyDL8.5: a Library for Learning Optimal Decision Trees"
+      authors: "Gael Aglin , Siegfried Nijssen and Pierre Schaus"
+      venue: "29th International Joint Conference on Artificial Intelligence at IJCAI 2020 Yokohama, Japan"
+      link: "assets/publi/ijcai20_pydl85.pdf"
+      code: "https://github.com/aia-uclouvain/pydl8.5"
+    - title: "Ddo, a Generic and Efficient Framework for MDD-Based Optimization"
+      authors: "Xavier Gillard , Pierre Schaus and Vianney Coppe"
+      venue: "29th International Joint Conference on Artificial Intelligence at IJCAI 2020 Yokohama, Japan"
+      link: "assets/publi/ijcai2020_ddo.pdf"
+      code: "https://github.com/xgillard/ddo"
+    - title: "Insertion Sequence Variables for Hybrid Routing and Scheduling Problems"
+      authors: "Charles Thomas, Roger Kameugne, Pierre Schaus"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR2020), Vienna, Austria."
+      link: "assets/publi/cpaior2020-seqvar.pdf"
+      code:
+    - title: "The Unary Resource with Transition Times and Optional Activities"
+      authors: "Sascha Van Cauwelaert, Cyrille Dejemeppe, Pierre Schaus"
+      venue: "Journal of Scheduling Springer Journal."
+      link: "assets/publi/journalscheduling20-unarytt.pdf"
+      code:
+    - title: "Learning Optimal Decision Trees Using Caching Branch-and-Bound Search"
+      authors: "Gael Aglin, Siegfried Nijssen, Pierre Schaus"
+      venue: "In Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-2020 New York.), 2020, NY, USA."
+      link: "assets/publi/aaai20_dl8.pdf"
+      code: "https://dl85.readthedocs.io/en/latest/"
+    - title: "An LSTM approach to Predict Migration based on Google Trends."
+      authors: "Nicolas Golenvaux, Pablo Gonzalez Alvarez, Harold Silvère Kiossou, Pierre Schaus"
+      venue: "Data-driven Humanitarian Mapping (a KDD Workshop) (KDD Workshop New York.)"
+      link: "assets/publi/kddws_2020.pdf"
+      code: "https://github.com/aia-uclouvain/gti-mig-paper"
+    - title: "Nowcasting COVID-19 hospitalizations using Google Trends and LSTM"
+      authors: "Derval G, François-Lavet V, Schaus P."
+      venue: "in AI for Social Good Workshop (AISG)"
+      link: "assets/publi/AI4SG20_covid_trends.pdf"
+      code: "https://zenodo.org/record/3880044#.YOQ7Hi0RosM"
+    - title: "Using an interpretable Machine Learning approach to study the drivers of International Migration"
+      authors: "Harold Silvere Kiossou , Yannik Schenk, Frédéric Docquier, Vinasetan Ratheil Houndji, Siegfried Nijssen , Pierre Schaus"
+      venue: "in AI for Social Good Workshop (AISG)"
+      link: "assets/publi/ai4sg2020_interpretable.pdf"
+      code:
+    - title: "EvoFlows: an Interactive Approach for Visualizing Spatial and Temporal Trends in Origin-Destination Data"
+      authors: "Erick Cuenca, Frédéric Docquier, Siegfried Nijssen, Pierre Schaus"
+      venue:
+      link: "assets/publi/2020-evoflows.pdf"
+      code:
+
+- year: 2019
+  papers:
+    - title: "An aggregate learning approach for interpretable semi-supervised population prediction and disaggregation using ancillary data"
+      authors: "Guillaume Derval, Frederic Docquier, Pierre Schaus"
+      venue: "In Springer, editor, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery, 2019 ECML-PKDD 2019 Wurzburg, Germany."
+      link: "assets/publi/ecml-pkdd2019-disagreation.pdf"
+      code:
+    - title: "Mining a maximum weighted set of disjoint submatrices"
+      authors: "Vincent Branders, Guillaume Derval, Pierre Dupont, Pierre Schaus"
+      venue: "In Springer, editor, 22nd International Conference on Discovery Science, 2019, DS2019 Split, Croatia."
+      link: "assets/publi/ds2019-colgen-matrix.pdf"
+      code:
+    - title: "SolverCheck: Declarative Testing of Constraints"
+      authors: "Xavier Gillard, Pierre Schaus and Yves Deville"
+      venue: "In Springer, editor, 25th International Conference on Principles and Practice of Constraint Programming (CP), 2019, CP2019 Stamford, US."
+      link: "assets/publi/cp2019-solvercheck.pdf"
+      code:
+    - title: "Modeling Pattern Set Mining using Boolean Circuits"
+      authors: "John Aoga, Siegfried Nijssen and Pierre Schaus"
+      venue: "In Springer, editor, 25th International Conference on Principles and Practice of Constraint Programming (CP), 2019, CP2019 Stamford, US."
+      link: "assets/publi/cp2019-booleancircuits.pdf"
+      code:
+    - title: "Generic Constraint-based Block Modeling using Constraint Programming (Best Paper Award)"
+      authors: "Alex Mattenet, Ian Davidson, Siegfried Nijssen, and Pierre Schaus"
+      venue: "In Springer, editor, 25th International Conference on Principles and Practice of Constraint Programming (CP), 2019, CP2019 Stamford, US."
+      link: "assets/publi/cp2019-blockmodeling.pdf"
+      code:
+    - title: "Learning Optimal Decision Trees using Constraint Programming"
+      authors: "Hélène Verhaeghe, Siegfried Nijssen, Gilles Pesant, Claude-Guy Quimper and Pierre Schaus"
+      venue: "In Springer, editor, 25th International Conference on Principles and Practice of Constraint Programming (CP), 2019, CP2019 Stamford, US. (fast track constraints invitation, work in progress)"
+      link: "assets/publi/cp2019-learning-decision-trees.pdf"
+      code:
+    - title: "Extending Compact-Diagram to Basic Smart Multi-Valued Variable Diagrams"
+      authors: "Hélèhe Verhaeghe, Christophe Lecoutre, Pierre Schaus"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR19), Thessaloniki, Greece."
+      link: "assets/publi/cpaior2019-smartmdd.pdf"
+      code:
+    - title: "The maximum weighted submatrix coverage problem: A CP approach"
+      authors: "Guillaume Derval, Vincent Branders, Pierre Dupont, Pierre Schaus"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR19), Thessaloniki, Greece."
+      link: "assets/publi/cpaior2019-maxmatrix.pdf"
+      code:
+    - title: "The Item Dependent StockingCost Constraint"
+      authors: "Vinasetan Ratheil Houndji, Pierre Schaus, Laurence Wolsey"
+      venue: "Constraints Springer Journal."
+      link: "assets/publi/constraints2017-itemstockingcost.pdf"
+      code:
+    - title: "CG4SR: Near Optimal Traffic Engineering for Segment Routing with Column Generation"
+      authors: "Mathieu Jadin, Francois Aubry, Pierre Schaus, Olivier Bonaventure"
+      venue: "IEEE International Conference on Computer Communications (INFOCOM2019), Paris, France."
+      link: "assets/publi/infocom2019-sr.pdf"
+      code:
+
+- year: 2018
+  papers:
+    - title: "Finding Probabilistic Rule Lists using the Minimum Description Length Principle"
+      authors: "John O.R. Aoga, Tias Guns, Siegfried Nijssen, and Pierre Schaus"
+      venue: "The 21st International Conference on Discovery Science (DS18), Limassol, Cyprus."
+      link: "assets/publi/ds2018-rule-lists.pdf"
+      code:
+    - title: "A Constraint Programming Approach for Solving Patient Transportation Problems"
+      authors: "Quentin Cappart, Charles Thomas, Pierre Schaus, and Louis-Martin Rousseau"
+      venue: "24th International Conference on Principles and Practice of Constraint Programming (CP18), Lille, France"
+      link: "assets/publi/cp18-patient.pdf"
+      code:
+    - title: "Testing Global Constraints"
+      authors: "Aurélie Massart, Valentin Rombouts, and Pierre Schaus"
+      venue: "CP-18 Doctoral Program (CP18-doctoral program), Lille, France"
+      link: "assets/publi/cp18-dp18-cpchecker.pdf"
+      code:
+    - title: "Compact-MDD: Efficiently Filtering (s)MDD Constraints with Reversible Sparse Bit-sets"
+      authors: "Hélène Verhaeghe, Christophe Lecoutre, Pierre Schaus"
+      venue: "27th International Joint Conference on Artificial Intelligence (IJCAI18), Stockholm, Sweden"
+      link: "assets/publi/ijcai18_cmdd.pdf"
+      code:
+    - title: "EpisodeSupport: a Global Constraint for Mining Frequent Patterns in a Long Sequence of Events"
+      authors: "Quentin Cappart, John O.R. Aoga, Pierre Schaus"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR18), Delft, The Netherlands"
+      link: "assets/publi/cpaior18_episodesupport.pdf"
+      code:
+    - title: "Revisiting the Self-Adaptive Large Neighbourhood Search"
+      authors: "Charles Thomas, Pierre Schaus"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR18), Delft, The Netherlands"
+      link: "assets/publi/cpaior18_alns.pdf"
+      code:
+    - title: "Soft-regular with a prefix-size violation measure"
+      authors: "Minh Thanh Khong, Christophe Lecoutre, Pierre Schaus and Yves Deville"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR18), Delft, The Netherlands"
+      link: "assets/publi/cpaior18_regular.pdf"
+      code:
+    - title: "Combinatorial Optimization Algorithms to Mine a Sub-Matrix of Maximal Sum"
+      authors: "Vincent Branders, Pierre Schaus, Pierre Dupont"
+      venue: "Selected papers from International workshop on New Frontiers in MINING COMPLEX PATTERNS, 2017, NFMCP17 Skopje, Macedonia. Lecture Notes in Artificial Intelligence, No. 10785, Springer Nature, pp. 65-79, January 1, 2018."
+      link: "assets/publi/nfmcp17.pdf"
+      code:
+
+- year: 2017
+  papers:
+    - title: "REPETITA: Repeatable Experiments for Performance Evaluation of Traffic-Engineering Algorithms"
+      authors: "Steven Gay, Pierre Schaus, Stefano Vissicchio"
+      venue: "Arxiv technical report"
+      link: "assets/publi/arxiv-repetita.pdf"
+      code:
+    - title: "Efficient Reification of Table Constraints"
+      authors: "Minh Thanh Khong, Yves Deville, Pierre Schaus, Christophe Lecoutre"
+      venue: "29th International Conference on Tools with Artificial Intelligence (ICTAI), 2017, ICTAI2017 Boston, MA, USA."
+      link: "assets/publi/ictai17-tablereif.pdf"
+      code:
+    - title: "CoverSize: A Global Constraint for Frequency-based Itemset Mining."
+      authors: "Pierre Schaus, John O.R. Aoga, Tias Guns"
+      venue: "In Springer, editor, 23d International Conference on Principles and Practice of Constraint Programming (CP), 2017, CP2017 Melbourne, Australia."
+      link: "assets/publi/cp2017-coversize.pdf"
+      code:
+    - title: "Extending Compact-Table to Basic Smart Tables."
+      authors: "Hélène Verhaeghe, Christophe Lecoutre, Yves Deville, Pierre Schaus"
+      venue: "In Springer, editor, 23d International Conference on Principles and Practice of Constraint Programming (CP), 2017, CP2017 Melbourne, Australia."
+      link: "assets/publi/cp2017-basicsmart.pdf"
+      code:
+    - title: "Improved Filtering for the Bin-Packing with Cardinality Constraint"
+      authors: "Guillaume Derval, Jean-Charles Régin, Pierre Schaus"
+      venue: "under review for Constraints Springer Journal, CP017 fast-track (CP17), Melbourne, Australia (Best Student Paper Award)"
+      link: "assets/publi/constraints-cp17-binpacking.pdf"
+      code:
+    - title: "A Visual Web Tool to Perform What-If Analysis of Optimization Approaches"
+      authors: "Sascha Van Cauwelaert, Michele Lombardi, Pierre Schaus"
+      venue: "arXiv technical-report"
+      link: "assets/publi/arxiv-perfprofile.pdf"
+      code:
+    - title: "How Efficient is a Global Constraint in Practice ? A Fair Experimental Framework"
+      authors: "Sascha Van Cauwelaert, Michele Lombardi, Pierre Schaus"
+      venue: "Constraints Springer Journal."
+      link: "assets/publi/constraints2017-efficientglobal.pdf"
+      code:
+    - title: "Efficient Filtering for the Resource-Cost AllDifferent Constraint"
+      authors: "Sascha Van Cauwelaert, Pierre Schaus"
+      venue: "Constraints 22(4): 493-511 (2017). Springer Journal, CPAIOR2017 fast-track issue (CPAIOR17), Padova, Italy"
+      link: "assets/publi/constraints-cpaior2017-resourcecostalldiff.pdf"
+      code:
+    - title: "Mining Time-constrained Sequential Patterns with Constraint Programming"
+      authors: "John O.R. Aoga, Tias Guns, Pierre Schaus"
+      venue: "Constraints22(4): 548-570 Springer Journal, CPAIOR2017 fast-track issue (CPAIOR17), Padova, Italy"
+      link: "assets/publi/constraints-cpaior2017-gap.pdf"
+      code:
+    - title: "The Weighted Arborescence Constraint"
+      authors: "Vinasetan Ratheil Houndji, Pierre Schaus, Mahouton Norbert Hounkonnou and Laurence Wolsey"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR17), Padova, Italy"
+      link: "assets/publi/cpaior2017-arbo.pdf"
+      code:
+    - title: "Rescheduling Railway Traffic on Real Time Situations using Time-Interval Variables"
+      authors: "Quentin Cappart, Pierre Schaus"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR17), Padova, Italy"
+      link: "assets/publi/cpaior2017-train.pdf"
+      code:
+    - title: "Extending Compact-Table to Negative and Short Tables"
+      authors: "Hélène Verhaeghe, Christophe Lecoutre and Pierre Schaus"
+      venue: "In Thirty-First AAAI Conference on Artificial Intelligence (AAAI-2017 San Francisco.), 2017, California, USA."
+      link: "assets/publi/aaai2017-shorttables.pdf"
+      code:
+    - title: "Verification of interlocking systems using statistical model checking."
+      authors: "Quentin Cappart, Christophe Limbree, Pierre Schaus, Jean Quilbeuf, Louis-Marie Traonouez, Axel Legay."
+      venue: "18th IEEE International Symposium on High Assurance System Engineering. HASE 20017. Singapore."
+      link: "assets/publi/arxiv-statistical-interlocking.pdf"
+      code:
+
+- year: 2016
+  papers:
+    - title: "An Efficient Algorithm for Mining Frequent Sequence with Constraint Programming."
+      authors: "John O.R. Aoga, Tias Guns, Pierre Schaus."
+      venue: "In Springer, editor, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery, 2016, ECML-PKDD 2016. Riva Del Garda, Italy."
+      link: "assets/publi/pkdd16.pdf"
+      code:
+    - title: "Scalable Constraint Programming approach for Mining Frequent Sequence with gap constraints."
+      authors: "John O.R. Aoga, Tias Guns, Pierre Schaus."
+      venue: "Benelearn2016."
+      link: "assets/publi/seqmininggap.pdf"
+      code:
+    - title: "Compact-Table: Efficiently Filtering Table Constraints with Reversible Sparse Bit-Sets."
+      authors: "Jordan Demeulenaere, Renaud Hartert, Christophe Lecoutre, Guillaume Perez, Laurent Perron, Jean-Charles Régin, Pierre Schaus."
+      venue: "In Springer, editor, International Conference on Principles and Practice of Constraint Programming (CP), 2016, CP2016 Toulouse, France."
+      link: "assets/publi/cp2016-compacttable.pdf"
+      code:
+    - title: "Parallel Strategies Selection."
+      authors: "Anthony Palmieri, Jean-Charles Régin, Pierre Schaus"
+      venue: "In Springer, editor, International Conference on Principles and Practice of Constraint Programming (CP), 2016, CP2016 Toulouse, France."
+      link: "assets/publi/cp2016-parallel.pdf"
+      code:
+    - title: "Efficient Filtering for the Unary Resource with Family-based Transition Times."
+      authors: "Sascha Van Cauwelaert, Cyrille Dejemeppe, Jean-Noël Monette Monette, Pierre Schaus."
+      venue: "In Springer, editor, International Conference on Principles and Practice of Constraint Programming (CP), 2016, CP2016 Toulouse, France."
+      link: "assets/publi/cp2016-unaryttfamilly.pdf"
+      code:
+    - title: "Embarassingly Parallel Search Reengineered."
+      authors: "Guillaume Derval, Pierre Schaus, Jean-Charles Régin."
+      venue: "accepted to CP2016 doctoral program."
+      link: "assets/publi/cp2016dp-eps.pdf"
+      code:
+    - title: "The Torpedo Scheduling Problem"
+      authors: "Pierre Schaus, Cyrille Dejemeppe, Sébastien Mouthuy, François-Xavier Mouthuy, Paul Gaborit."
+      venue: "ACP Challenge 2016."
+      link: "assets/publi/acpchallenge2016.pdf"
+      code:
+    - title: "Réification de Contraintes Tables."
+      authors: "Minh Thanh Khong, Christophe Lecoutre, Yves Deville, Pierre Schaus"
+      venue: "Douzièmes Journées Francophones de Programmation par Contraintes JFPC2016, Montpellier."
+      link: "assets/publi/jfpc2016fr.pdf"
+      code:
+    - title: "A dedicated algorithm for verification of interlocking systems"
+      authors: "Quentin Cappart and Pierre Schaus."
+      venue: "accepted to SAFECOMP2016."
+      link: "assets/publi/safecomp2016.pdf"
+      code:
+    - title: "Forward-Checking filtering for Nested Cardinality Constraints: Application to an Energy Cost Aware Production Planning Problem for Tissue Manufacturing"
+      authors: "Cyrille Dejemeppe, Olivier Devolder, Victor Lecomte, Pierre Schaus."
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR16) Banff, Canada."
+      link: "assets/publi/cpaior16-gcc.pdf"
+      code:
+
+- year: 2015
+  papers:
+    - title: "Verification by discrete simulation of interlocking systems"
+      authors: "Quentin Cappart, Christophe Limbrée, Pierre Schaus, Axel Legay"
+      venue: "29th European Simulation and Modelling Conference - ESM'2015, Leicester, UK"
+      link: "assets/publi/esm15-interlocking.pdf"
+      code:
+    - title: "The Unary Resource with Transition Times"
+      authors: "Cyrille Dejemeppe, Sascha Van Cauwelaert and Pierre Schaus"
+      venue: "International Conference on Principles and Practice of Constraint Programming (CP 2015), Cork, Ireland"
+      link: "assets/publi/cp2015_unarytt.pdf"
+      code:
+    - title: "Conflict Ordering Search for Scheduling Problems"
+      authors: "Steven Gay, Renaud Hartert, Christophe Lecoutre and Pierre Schaus"
+      venue: "International Conference on Principles and Practice of Constraint Programming (CP 2015), Cork, Ireland"
+      link: "assets/publi/cp2015_cos.pdf"
+      code:
+    - title: "Simple and Scalable time-table filtering for the Cumulative Constraint"
+      authors: "Steven Gay, Renaud Hartert and Pierre Schaus"
+      venue: "International Conference on Principles and Practice of Constraint Programming (CP 2015), Cork, Ireland"
+      link: "assets/publi/cp2015_cumulative.pdf"
+      code:
+    - title: "Solving the General Segment Routing Problem with Constraint Programming Techniques"
+      authors: "Renaud Hartert, Pierre Schaus, Stefano Vissicchio and Olivier Bonaventure"
+      venue: "International Conference on Principles and Practice of Constraint Programming (CP 2015), Cork, Ireland"
+      link: "assets/publi/cp2015_sr.pdf"
+      code:
+    - title: "A Declarative and Expressive Approach to Control Forwarding Paths in Carrier-Grade Networks"
+      authors: "Renaud Hartert, Stefano Vissicchio, Pierre Schaus, Olivier Bonaventure, Clarence Filsfils, Thomas Telkamp, Pierre Francois"
+      venue: "Proceedings of the 2015 ACM SIGCOMM Conference (SIGCOMM15), London, UK"
+      link: "assets/publi/sigcomm2015-sr.pdf"
+      code:
+    - title: "Verification of railway interlocking systems"
+      authors: "Simon Busard, Quentin Cappart, and Christophe Limbrée, Charles Pecheur, Pierre Schaus"
+      venue: "4th, International Workshop on Engineering Safety and Security Systems (ESSS), Oslo, Norway"
+      link: "assets/publi/esss15-interlocking.pdf"
+      code:
+    - title: "Time-Table Disjunctive Reasoning for the Cumulative Constraint"
+      authors: "Steven Gay, Renaud Hartert and Pierre Schaus"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR15), Barcelona, Spain"
+      link: "assets/publi/cpaior2015_timetabledisjunctive.pdf"
+      code:
+    - title: "Understanding the Potential of Propagators"
+      authors: "Sascha Van Cauwelaert, Michele Lombardi and Pierre Schaus"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR15), Barcelona, Spain"
+      link: "assets/publi/cpaior2015_propag_potential.pdf"
+      code:
+    - title: "Derivative Free Optimization: Lifting Single-Objective to Multi-Objective Algorithm"
+      authors: "Cyrille Dejemeppe, Pierre Schaus and Yves Deville"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR15), Barcelona, Spain"
+      link: "assets/publi/cpaior2015_mo_dfo.pdf"
+      code:
+
+- year: 2014
+  papers:
+    - title: "Supervised Learning to Control Energetic Reasoning : Feasibility Study"
+      authors: "Sascha Van Cauwelaert, Michele Lombardi, and Pierre Schaus"
+      venue: "In proceedings of CP 2014 Doctoral Program (CP2014), Lyon, France"
+      link: "assets/publi/cpdp2014_learning.pdf"
+      code:
+    - title: "The StockingCost Constraint"
+      authors: "Vinasétan Ratheil Houndji, Pierre Schaus, Laurence Wolsey and Yves Deville"
+      venue: "International Conference on Principles and Practice of Constraint Programming (CP 2014), Lyon, France"
+      link: "assets/publi/cp2014_stocking.pdf"
+      code:
+    - title: "Continuous Casting Scheduling with Constraint Programming"
+      authors: "Steven Gay, Pierre Schaus, and Vivian De Smedt"
+      venue: "International Conference on Principles and Practice of Constraint Programming (CP 2014), Lyon, France"
+      link: "assets/publi/cp2014_caster.pdf"
+      code:
+    - title: "A Support-Based Algorithm for the Bi-Objective Pareto Constraint"
+      authors: "Renaud Hartert, Pierre Schaus"
+      venue: "Twenty-Eighth AAAI Conference on Artificial Intelligence (AAAI-2014), Quebec, Canada"
+      link: "assets/publi/aaai2014_bopareto.pdf"
+      code:
+    - title: "Cost Impact Guided LNS"
+      authors: "Michele Lombardi, Pierre Schaus"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR14), Cork, Ireland"
+      link: "assets/publi/cpaior14-costimpact.pdf"
+      code:
+
+- year: 2013
+  papers:
+    - title: "Bound-Consistent Spread Constraint, Application to load balancing in nurse-to-patient assignments"
+      authors: "Pierre Schaus, Jean-Charles Régin"
+      venue: "EURO Journal on Computational Optimization, 2013"
+      link: "assets/publi/ejco2013-spread-nurses.pdf"
+      code:
+    - title: "Variable Objective Large Neighborhood Search: A practical approach to solve over-constrained problems"
+      authors: "Pierre Schaus"
+      venue: "25th IEEE International Conference on Tools with Artificial Intelligence (ICTAI), 2013"
+      link: "assets/publi/ictai13_volns.pdf"
+      code:
+    - title: "Sparse-Sets for Domain Implementation"
+      authors: "Vianney le Clément de Saint-Marcq, Pierre Schaus, Christine Solnon, and Christophe Lecoutre"
+      venue: "TRICS - Techniques foR Implementing Constraint programming Systems, CP 2013 Workshop"
+      link: "assets/publi/trics13-sparsets.pdf"
+      code:
+    - title: "The Bi-Objective Pareto Constraint"
+      authors: "Renaud Hartert, Pierre Schaus"
+      venue: "In proceedings of CP 2013 Doctoral Program"
+      link: "assets/publi/cpdp13_pareto.pdf"
+      code:
+    - title: "Multi-Objective Large Neighborhood Search"
+      authors: "Pierre Schaus, Renaud Hartert"
+      venue: "International Conference on Principles and Practice of Constraint Programming (CP 2013)"
+      link: "assets/publi/cp13_molns.pdf"
+      code:
+    - title: "Revisiting the cardinality reasoning for BinPacking constraint"
+      authors: "François Pelsser, Pierre Schaus, Jean-Charles Régin"
+      venue: "International Conference on Principles and Practice of Constraint Programming (CP 2013)"
+      link: "assets/publi/cp13_binpackingcard.pdf"
+      code:
+
+- year: 2012
+  papers:
+    - title: "Cardinality reasoning for bin-packing constraint. application to a tank allocation problem."
+      authors: "Pierre Schaus, Jean-Charles Régin, Rowan Van Schaeren, Wout Dullaert, and Birger Raa"
+      venue: "International Conference on Principles and Practice of Constraint Programming (CP 2012)"
+      link: "assets/publi/cp12-binpackingcard.pdf"
+      code:
+
+- year: 2011
+  papers:
+    - title: "Solving steel mill slab problems with constraint-based techniques: CP, LNS, and CBLS."
+      authors: "Pierre Schaus, Pascal Van Hentenryck, Jean-Noël Monette, C. Coffrin, L. Michel, and Yves Deville"
+      venue: "Journal of Constraints, 2011"
+      link: "assets/publi/constraints2010_steelmillslab.pdf"
+      code:
+    - title: "Generic adaptive heuristics for large neighborhood search."
+      authors: "Jean-Baptiste Mairy, Pierre Schaus, and Yves Deville"
+      venue: "In 8th Workshop on Local Search techniques in Constraint Satisfaction (LSCS 2011), 2011"
+      link: "assets/publi/cp2010-workshop-adaptive-lns.pdf"
+      code:
+
+- year: 2010
+  papers:
+    - title: "Revisiting the soft global cardinality constraint."
+      authors: "Pierre Schaus, Pascal Van Hentenryck, and Alessandro Zanarini"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR), 2010"
+      link: "assets/publi/cpaior10-softgcc.pdf"
+      code:
+    - title: "Consistency check for the bin packing constraint revisited."
+      authors: "Julien Dupuis, Pierre Schaus, and Yves Deville"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR), 2010"
+      link: "assets/publi/cpaior2010_binpacking.pdf"
+      code:
+
+- year: 2009
+  papers:
+    - title: "Scalable load balancing in nurse to patient assignment problems."
+      authors: "Pierre Schaus, Pascal Van Hentenryck, and Jean-Charles Régin"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR), pages 248-262, 2009"
+      link: "assets/publi/cpaior09-nurses.pdf"
+      code:
+
+- year: 2008
+  papers:
+    - title: "Hybridization of CP and VLNS for eternity II."
+      authors: "Pierre Schaus and Yves Deville"
+      venue: "In JFPC, 2008"
+      link: "assets/publi/jfpc2008_eternity.pdf"
+      code:
+    - title: "A global constraint for bin-packing with precedences: Application to the assembly line balancing problem."
+      authors: "Pierre Schaus and Yves Deville"
+      venue: "Twenty-Third AAAI Conference on Artificial Intelligence (AAAI-08), 2008"
+      link: "assets/publi/aaai2008_binpacking.pdf"
+      code:
+
+- year: 2007
+  papers:
+    - title: "A CP approach to the balanced academic curriculum problem."
+      authors: "Jean-Noël Monette, Pierre Schaus, Stéphane Zampelli, Yves Deville, and Pierre Dupont"
+      venue: "The Seventh International Workshop on Symmetry and Constraint Satisfaction Problems (Symcon07), 2007"
+      link: "assets/publi/symcon2007_bacp.pdf"
+      code:
+    - title: "Bound-consistent deviation constraint."
+      authors: "Pierre Schaus, Yves Deville, and Pierre Dupont"
+      venue: "In International Conference on Principles and Practice of Constraint Programming (CP), 2007"
+      link: "assets/publi/cp2007_deviation-bc.pdf"
+      code:
+    - title: "The deviation constraint."
+      authors: "Schaus Pierre, Yves Deville, Pierre Dupont, and Jean-Charles Régin"
+      venue: "International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR), 2007"
+      link: "assets/publi/cpaior2007_deviation.pdf"
+      code:
+    - title: "Simplification and extension of the Spread Constraint"
+      authors: "Schaus Pierre, Yves Deville, Pierre Dupont, and Jean-Charles Régin"
+      venue: "Trends in Constraint Programming, pages 95-99. 2007"
+      link: "assets/publi/hermes2007_spread.pdf"
+      code:
+
+- year: 2006
+  papers:
+    - title: "Simplification and extension of the Spread constraint."
+      authors: "Schaus Pierre, Yves Deville, Pierre Dupont, and Jean-Charles Régin"
+      venue: "Third International Workshop on Constraint Propagation and Implementation, pages 72-92, 2006"
+      link: "assets/publi/cp2006_spread.pdf"
+      code:

@@ -20,7 +20,7 @@ plugins_dir: "./_plugins" # Directory for custom plugins
 markdown: kramdown # Markdown processor
 
 # Permalink settings
-permalink: date
+permalink: /:title.html
 
 # Collections
 collections:

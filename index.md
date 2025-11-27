@@ -1,38 +1,30 @@
 ---
 layout: default
 title: Home
+permalink: /
 ---
 
-
-
-<!--
-<a href="assets/doc-postdoc-Fellowship.pdf"" target="_blank" id="code" type="submit" class="btn btn-danger"><span class="glyphicon glyphicon-download"></span> Doc and Post-Doc position in Data-Mining and Data-Science applied to migration study</a>
--->
-
-<div class="media">
-          <a class="pull-right">
-            <img class="media-object" src="img/me5.jpg" style="width:200px;">
-          </a>
+<p style="text-align: center;">
+  <img class="img-fluid" src="img/me5.jpg" alt="Pierre Schaus" style="width:200px; border-radius: 0.25rem;">
+</p>
 
 I'm professor of computer science at UCLouvain in the <a href="http://www.uclouvain.be/en-icteam.html">ICTeam</a> Institute.
 I'm also part of the  <a href="https://aia.info.ucl.ac.be">Artificial Intelligence and Algorithms<img border="0" src="img/aia.png" alt="Twitter" width="200"></a> research group.
-
 
 <h3>Bio</h3>
 I obtained my Ph.D. from the UCLouvain University in 2009. I spent 5 months at Brown University. Then I joined the Dynadec startup to work on Comet during two years before working two more years at <a href="www.n-side.com">N-SIDE</a>. I'm now at UCLouvain since September 2012.
 
 <h3>Research</h3>
 
-Interests <br>
+Interests
 <ul>
    <li> Constraint Programming and Discrete Optimization </li>
    <li> Data-mining and Machine Learning </li>
    <li> Algorithms and data-structures </li>
    <li> Programming languages </li>
 </ul>
-<br>
 
-Current Projects and collaboration <br>
+Current Projects and collaboration
 <ul>
    <li> Dynamic Proggramming and MDD Solving, in collaboration with Emma Legrand, Xavier Gillard, Vianney Coppé and Cetic</li>
    <li> MDD for CP, in collaboration with Amaury Guichard, Hélène Verhaeghe</li>
@@ -43,8 +35,7 @@ Current Projects and collaboration <br>
    <li> CP MOOC and CP solvers (<a href="www.minicp.org">www.minicp.org</a>, <a href="www.maxicp">www.maxicp.org</a>), in collaboration with Laurent Michel, Pascal Van Hentenryck and Guillaume Derval</li>
 </ul>
 
-Past projects <br>
-
+Past projects
 <ul>
    <li> Traffic Engineering, in Software Defined Networks, in collaboration with Olivier Bonaventure (ARC project)</li>
    <li> Scheduling Operations for Steel-Making, in collaboration with PSI Metal (Metal Urbain, Innoviris Bxl)</li>
@@ -61,18 +52,3 @@ Past projects <br>
    <li> Intelligent Planning with Traxeo  (Deep Construct Walloon Region project)</li>
    <li> Scheduling the unmounting of plances , (Planum Project, région Walllonne)</li>
 </ul>
-
-
-
-
-
-<!--
-<h2>News</h2>
-<ul>
-  {% for post in site.posts do %}
-  <li>
-    {{ post.date }} <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
--->

@@ -18,12 +18,3 @@ title: OscaR
 </ul>
 
 I mostly develop Constraint Programming aspects of OscaR.
-
-
-
-
-
-
-
-
-

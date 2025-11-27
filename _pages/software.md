@@ -40,16 +40,3 @@ A set of Discrete Optimization Projects in Java <a href="https://github.com/psch
 
 <a href="https://github.com/xgillard/ddo">DDO</a> is a RUST library for optimization with Decision Diagrams presented in:
 Ddo, a generic and efficient framework for MDD-based optimization, Xavier Gillard, Pierre Schaus, Vianney Coppé, IJCAI2020
-
-
-
-
-
-
-
-
-
-
-
-
-

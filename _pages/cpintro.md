@@ -3,8 +3,6 @@ layout: default
 title: OscaR
 ---
 
-
-
 <h3> Constraint Programming: A Practical Introduction </h3>
 
 <div class="row">
@@ -75,17 +73,3 @@ Day2 (A bit more advanced) Thursday 30 may, 9h30-16h: <br>
 Subscription are closed
 
 <!--iframe src="https://docs.google.com/forms/d/1VajznOB9md8qNQQLyFoYO7u0wkUIY8UTugzmCNGvghg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>  </!-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-

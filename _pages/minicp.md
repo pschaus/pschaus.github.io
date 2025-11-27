@@ -8,12 +8,3 @@ title: MiniCP
 </a>
 
 <a href="http://www.minicp.org"  target="_blank">MiniCP</a> is a lightweight open-source constraint programming solver for teaching CP.
-
-
-
-
-
-
-
-
-

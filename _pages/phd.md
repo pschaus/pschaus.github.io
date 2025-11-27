@@ -3,7 +3,6 @@ layout: default
 title: Research Team
 ---
 
-
 <h3>Research Team</h3>
 
 Current Members:
@@ -60,8 +59,3 @@ Former Members or vissitors:
    <li> Juhee Bae (Lecturer), start in Oct 2019, Research Topic: Migration analysis using ML and Data-Mining(co-supervision with Siegfried Nijssen)</li>
 </ul>
 -->
-
-
-
-
-</h3>

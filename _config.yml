@@ -1,15 +1,16 @@
 # _config.yml
 
 # Site settings
-title: "Your Site Title" # The title of your site
-description: "A brief description of your site" # A short description for your site
+title: "Pierre Schaus - Personal Page" # The title of your site
+description: "Personal academic page of Pierre Schaus, focusing on Constraint Programming, Discrete Optimization, Data-mining, and Machine Learning." # A short description for your site
+author: "Pierre Schaus" # The author of the site
 
 # Build settings
 safe: false # Disables safe mode, allowing custom plugins
 auto: true # Automatically regenerate the site when files are modified
 server: false # Disables the built-in server
 server_port: 4000 # Port number for the built-in server
-baseurl: "" # Base URL for your site (leave empty if hosted at the root)
+baseurl: "/" # Base URL for your site (leave empty if hosted at the root)
 url: "https://pschaus.github.io" # The URL of your site
 source: "." # The source directory for your site's content
 destination: "./_site" # The directory where the generated site will be placed
@@ -19,8 +20,13 @@ plugins_dir: "./_plugins" # Directory for custom plugins
 markdown: kramdown # Markdown processor
 
 # Permalink settings
-permalink: date # Permalink style (e.g., /:categories/:year/:month/:day/:title.html)
+permalink: date
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name.html
 
 # Other settings
 future: true # Publish posts with future dates
-

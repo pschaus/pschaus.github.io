@@ -61,4 +61,4 @@ Past
 
 <h3>Master Thesis</h3>
 
-I supervise several master thesis every year that can be found here <a href="https://dial.uclouvain.be/memoire/ucl/en/search/site/pierre%20schaus">past ones</a>
+I supervise several master thesis every year that can be found here <a href="https://thesis.dial.uclouvain.be/search?spc.page=1&query=pierre%20schaus&f.advisor=Schaus,%20Pierre,equals">past ones</a>

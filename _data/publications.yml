@@ -170,6 +170,11 @@
       venue: "ArXiv"
       link: "assets/publi/sir_migration_simulation_covid.pdf"
       code:
+    - title: "Improved Filtering of Scheduling Problems using Redundant Table Constraints"
+      authors: "Hélène Verhaeghe, Roger Kameugne, Christophe Lecoutre and Pierre Schaus"
+      venue: "ModRef21 worshop"
+      link: "assets/publi/modref21-scheduling.pdf"
+      code:
 
 - year: 2020
   papers:
@@ -515,6 +520,11 @@
       authors: "Renaud Hartert, Pierre Schaus"
       venue: "Twenty-Eighth AAAI Conference on Artificial Intelligence (AAAI-2014), Quebec, Canada"
       link: "assets/publi/aaai2014_bopareto.pdf"
+      code:
+    - title: "Supervised Learning to Control Energetic Reasoning: A Feasibility Study"
+      authors: "Sascha Van Cauwelaert, Michele Lombardi, Pierre Schaus"
+      venue: "CP2014 Doctoral Program"
+      link: "assets/publi/dpcp2014-energetic.pdf"
       code:
     - title: "Cost Impact Guided LNS"
       authors: "Michele Lombardi, Pierre Schaus"

@@ -5,6 +5,11 @@
       venue:
       link: "assets/publi/iclf.pdf"
       code:
+    - title: "Implementing Cumulative Functions with Generalized Cumulative Constraints"
+      authors: "Pierre Schaus, Charles Thomas, Roger Kameugne"
+      venue:
+      link: "assets/publi/gencum.pdf"
+      code:
     - title: "Solving the Aircraft Disassembly Scheduling Problem"
       authors: "Charles Thomas and Pierre Schaus"
       venue:
@@ -15,6 +20,22 @@
       venue:
       link: "assets/publi/seqvars.pdf"
       code:
+    - title: "A Generic Complete Anytime Beam Search for Optimal Decision Tree"
+      authors: "Harold Kiossou, Siegfried Nijssen, Pierre Schaus"
+      venue:
+      link: "assets/publi/anytime-beam-tree.pdf "
+      code:
+    - title: "Anytime Optimal Decision Tree Learning with Continuous Features"
+      authors: "Harold Kiossou, Pierre Schaus, Siegfried Nijssen"
+      venue:
+      link: "assets/publi/lds_continuous.pdf "
+      code:
+    - title: "Towards Bound Consistency for the No-Overlap Constraint Using MDDs"
+      authors: "Amaury Guichard, Laurent Michel, Hélène Verhaeghe, Pierre Schaus"
+      venue:
+      link: "assets/publi/bc_nooverlap.pdf "
+      code:
+
 
 - year: 2025
   papers:
@@ -28,6 +49,12 @@
       venue: "22nd International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR 2025) (Best Student Paper Award), Melbourne, Australia"
       link: "assets/publi/cpaior2025-toolswitching.pdf"
       code: "https://github.com/emmalegrand/JS-TSP"
+    - title: "CP-Model-Zoo: A Natural Language Query System for Constraint Programming Models"
+      authors: "Augustinn Crespin, Ioannis Kostis, Hélène Verhaeghe and Pierre Schaus"
+      venue: "LLM-Solve CP25 Workshop"
+      link: "assets/publi/cpmodelzoo_llmsolve_25.pdf"
+      code:
+
 
 - year: 2024
   papers:

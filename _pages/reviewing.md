@@ -18,9 +18,11 @@ title: Home
 Chair and Organization:
 
 <ul>
+   <li> Co-organizer, <a href="https://dpsolve26.github.io">JFPC26</a>, Louvain-la_Neuve, Belgium </li>
+   <li> Co-organizer, <a href="https://sites.google.com/view/dpsolve2023/">DPSolve</a> workshop, Lisbon, July 2026.</li>
    <li> Tutorial Chair, CP 2024, Girona, Spain </li>
    <li> Co-organizer, <a href="https://sites.google.com/view/dpsolve2023/">DPSolve</a> workshop, Toronto, August 2013.</li>
-   <li> Program Chair, CPAIOR 2022, Los-Angeles, US, <a href="https://link.springer.com/book/10.1007/978-3-031-08011-1">LNCS Proceedings</a> </li>
+   <li> Program Chair, <a href="https://sites.google.com/usc.edu/cpaior-2022/home">CPAIOR 2022</a>, Los-Angeles, US, <a href="https://link.springer.com/book/10.1007/978-3-031-08011-1">LNCS Proceedings</a> </li>
    <li> Co-Conference Chair, CP 2020, LLN, Belgium, September 2020 </li>
    <li> Chair of the Application Track, CP 2019, UCONN Stamford, US, September 2019 </li>
    <li> Competition Chair, CP 2016, Toulouse, France, Sept 2016 </li>
@@ -34,7 +36,7 @@ PC Member:
 <ul>
    <li> PC member of AAAI 2024, 2021, 2020, 2019, 2018, 2017, 2016, 2015 </li>
    <li> PC member of CPAIOR 2026, CPAIOR 2025, CPAIOR 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2014 </li>
-   <li> PC member of CP 2025, CP 2024, 2023, 2022 (senior), 2021 (senior), 2020, 2019, 2018, 2017 (senior), 2016, 2015, 2014, 2013 </li>
+   <li> PC member of CP 2026, 2025, CP 2024, 2023, 2022 (senior), 2021 (senior), 2020, 2019, 2018, 2017 (senior), 2016, 2015, 2014, 2013 </li>
    <li> PC member, ECML-PKDD, 2021, 2020, 2019, 2018 </li>
    <li> PC member, IJCAI, 2021, 2020, 2019, 2018, 2017 (senior), 2016 </li>
    <li> PC member, JFPC, 2018, 2013, 2012, 2011, 2009 </li>

@@ -44,7 +44,7 @@ generic solver, Improved bounding techniques, and fast discovery of good feasibl
    <li> Vianney Coppé, Jan 2019 - Jan 2024, <a href="assets/thesis/2024-coppe.pdf"> Advances in Discrete Optimization with Decision Diagrams: Dominance, Caching and Aggregation-Based Heuristics</a></li>
    <li> Alexandre Dubray, Jan 2019 - Jun 2025, <a href="assets/thesis/2025-dubray.pdf"> Specialising Model Counting
 for Probabilistic Inference</a> (co-supervision with Siegfried Nijssen)</li>
-   <li> Augustin Delecluse, Sep 2021 - Jun 2025, <a href="assets/thesis/2025-delecluse.pdf"> Seqence Variables and Search
+   <li> Augustin Delecluse, Sep 2021 - Jun 2025, <a href="assets/thesis/2025-delecluse.pdf"> Sequence Variables and Search
 Heuristics for Vehicle Routing Problems in Constraint Programming</a></li>
 </ol>
 

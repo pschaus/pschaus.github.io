@@ -37,6 +37,16 @@
       code:
 
 
+
+- year: 2026
+  papers:
+    - title: "Clustering for Relaxed and Restricted Decision Diagram Bounds: When It Works and Why"
+      authors: "Alice Burlat, Roger Kameugne, Cristel Pelsser, Pierre Schaus"
+      venue: "23nd International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR 2026), Rabat, Maroco"
+      link: "assets/publi/cpaior26-clustering.pdf"
+      code: "https://github.com/DDOLIB-CETIC-UCL/DDOLib"
+
+
 - year: 2025
   papers:
     - title: "Modeling and Solving a Composite Structure Design Problem with Constraint Programming"

@@ -131,6 +131,14 @@
       venue: "29th International Conference on Principles and Practice of Constraint Programming (CP 2023), Toronto, Canada."
       link: "assets/publi/cp2023_map_partitioning.pdf"
       code:
+    - title: "A review of the Constraint Programming MOOC on EdX"
+      authors: "Augustin Delecluse, Guillaume Derval, Laurent Michel, Pierre Schaus, Pascal Van Hentenryck"
+      venue: "Workshop on Teaching Constraint Programming, WTCP 2023 (a workshop of CP2023, Toronto, Atlanta)"
+      link: "assets/publi/wtcp2023-edxmooc.pdf"
+      code:
+
+
+        
 
 - year: 2022
   papers:

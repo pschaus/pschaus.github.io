@@ -20,11 +20,6 @@
       venue:
       link: "assets/publi/seqvars.pdf"
       code:
-    - title: "A Generic Complete Anytime Beam Search for Optimal Decision Tree"
-      authors: "Harold Kiossou, Siegfried Nijssen, Pierre Schaus"
-      venue:
-      link: "assets/publi/anytime-beam-tree.pdf "
-      code:
     - title: "Anytime Optimal Decision Tree Learning with Continuous Features"
       authors: "Harold Kiossou, Pierre Schaus, Siegfried Nijssen"
       venue:
@@ -45,6 +40,11 @@
       venue: "23nd International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR 2026), Rabat, Maroco"
       link: "assets/publi/cpaior26-clustering.pdf"
       code: "https://github.com/DDOLIB-CETIC-UCL/DDOLib"
+    - title: "A Generic Complete Anytime Beam Search for Optimal Decision Tree"
+      authors: "Harold Kiossou, Siegfried Nijssen, Pierre Schaus"
+      venue: "24nd International Symposium on Intelligent Data Analysis (IDA 2026),  Leiden, the Netherlands"
+      link: "assets/publi/idea2026_anytime-beam-tree.pdf"
+      code: "https://github.com/haroldks/pytrees-rs"
 
 
 - year: 2025
@@ -63,7 +63,7 @@
       authors: "Augustinn Crespin, Ioannis Kostis, Hélène Verhaeghe and Pierre Schaus"
       venue: "LLM-Solve CP25 Workshop"
       link: "assets/publi/cpmodelzoo_llmsolve_25.pdf"
-      code:
+      code: "https://github.com/crespina/LLM4CP"
 
 
 - year: 2024
@@ -73,6 +73,16 @@
       venue: "22nd International Symposium on Intelligent Data Analysis (IDA 2024), Stockholm, Sweden"
       link: "assets/publi/ida2024_efficient_lookehead_decision_trees.pdf"
       code: "https://github.com/haroldks/pytrees"
+    - title: "Black-Box Value Heuristics for Solving Optimization Problems with Constraint Programming"
+      authors: "Augustin Delecluse, Pierre Schaus"
+      venue: "30th International Conference on Principles and Practice of Constraint Programming (CP 2024),  2024, GIRONA, SPAIN."
+      link: "assets/publi/cp2024_valueheuristic.pdf"
+      code: "https://github.com/augustindelecluse/choco-solver"
+    - title: "Anytime Weighted Model Counting with Approximation Guarantees for Probabilistic Inference"
+      authors: "Alexandre Dubray, Pierre Schaus, Siegfried Nijssen"
+      venue: "30th International Conference on Principles and Practice of Constraint Programming (CP 2024),  2024, GIRONA, SPAIN."
+      link: "assets/publi/cp2024_modelcounting.pdf"
+      code: "https://github.com/aia-uclouvain/schlandals"
     - title: "Modeling and Exploiting Dominance Rules for Discrete Optimization with Decision Diagrams"
       authors: "Vianney Coppé, Xavier Gillard, Pierre Schaus"
       venue: "21st International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR 2024), Uppsala, Sweden"
@@ -95,7 +105,7 @@
       code:
     - title: "Decision Diagram-Based Branch-and-Bound with Caching for Dominance and Suboptimality Detection"
       authors: "Vianney Coppé, Xavier Gillard, Pierre Schaus"
-      venue: "INFORMS Journal on Computing."
+      venue: "INFORMS Journal on Computing"
       link: "assets/publi/JOC2023-caching.pdf"
       code: "https://github.com/xgillard/ddo"
     - title: "Impact of Weather Factors on Migration Intention using Machine Learning Algorihtms"

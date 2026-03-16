@@ -20,8 +20,14 @@ PhD students
 
 Post-docs
 <ul>
-   <li> Roger Kameugne (PhD), MDD optimization</li>
+   <li> Roger Kameugne (PhD), MDD optimization / Scheduling</li>
 </ul>
+
+Visiting Researcheer
+<ul>
+   <li> Jiaxin Zhang (PhD student from Tianjin University in China), MDD optimization for Assembly Lines Balancing</li>
+</ul>
+
 
 
 <h3>Completed PhD Thesis under my (co-)supervision:</h3>

@@ -4,32 +4,37 @@
       authors: "Pierre Schaus, Guillaume Derval, Augustin Delecluse"
       venue:
       link: "assets/publi/iclf.pdf"
-      code:
+      code: "https://github.com/OneAnonymizedUser/teacher-repository"
     - title: "Implementing Cumulative Functions with Generalized Cumulative Constraints"
       authors: "Pierre Schaus, Charles Thomas, Roger Kameugne"
       venue:
       link: "assets/publi/gencum.pdf"
-      code:
+      code: "https://github.com/aia-uclouvain/maxicp"
     - title: "Solving the Aircraft Disassembly Scheduling Problem"
       authors: "Charles Thomas and Pierre Schaus"
       venue:
       link: "assets/publi/aircraft.pdf"
-      code:
+      code: "https://github.com/cftmthomas/AircraftDisassembly"
     - title: "Sequence Variables: A Constraint Programming Computational Domain for Routing and Sequencing"
       authors: "Augustin Delcluse, Pierre Schaus, Pascal Van Hentenryck"
-      venue:
+      venue: 
       link: "assets/publi/seqvars.pdf"
-      code:
+      code: "https://github.com/aia-uclouvain/maxicp"
     - title: "Anytime Optimal Decision Tree Learning with Continuous Features"
       authors: "Harold Kiossou, Pierre Schaus, Siegfried Nijssen"
       venue:
       link: "assets/publi/lds_continuous.pdf "
-      code:
+      code: "https://github.com/haroldks/pytrees-rs"
     - title: "Towards Bound Consistency for the No-Overlap Constraint Using MDDs"
       authors: "Amaury Guichard, Laurent Michel, Hélène Verhaeghe, Pierre Schaus"
       venue:
       link: "assets/publi/bc_nooverlap.pdf "
-      code:
+      code: "https://github.com/aia-uclouvain/maxicp"
+    - title: "Chronological Knowledge Retrieval: A Retrieval-Augmented Generation Approach to Construction Project Documentation"
+      authors: "Ioannis - Aris Kostis, Natalia Sanchiz, Steeve De Schryver, François Denis, Pierre Schaus"
+      venue:
+      link: "assets/publi/2026_rag.pdf "
+      code: "https://github.com/ikostis-ucl/bpc_meeting_assistant"
 
 
 

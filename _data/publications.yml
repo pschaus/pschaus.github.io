@@ -40,6 +40,11 @@
 
 - year: 2026
   papers:
+    - title: "An Offline Neuro-Symbolic Football Pattern Retrieval Approach Using Constraint Programming"
+      authors: "Augustin Crespin, Pierre Schaus"
+      venue: "The 32nd International Conference on Principles and Practice of Constraint Programming (CP 2026), Lisbon, Portugal"
+      link: "assets/publi/cp2026_soccer.pdf"
+      code: "https://github.com/crespina/TactiCP"
     - title: "Clustering for Relaxed and Restricted Decision Diagram Bounds: When It Works and Why"
       authors: "Alice Burlat, Roger Kameugne, Cristel Pelsser, Pierre Schaus"
       venue: "23nd International Conference on Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems (CPAIOR 2026), Rabat, Maroco"

@@ -1,45 +1,40 @@
 - year: Working papers
   papers:
-    - title: "ICLF: An Immersive Code Learning Framework based on Git for Teaching and Evaluating Student Programming Projects"
-      authors: "Pierre Schaus, Guillaume Derval, Augustin Delecluse"
-      venue:
-      link: "assets/publi/iclf.pdf"
-      code: "https://github.com/OneAnonymizedUser/teacher-repository"
     - title: "Implementing Cumulative Functions with Generalized Cumulative Constraints"
       authors: "Pierre Schaus, Charles Thomas, Roger Kameugne"
-      venue:
+      venue: ArXiv
       link: "assets/publi/gencum.pdf"
       code: "https://github.com/aia-uclouvain/maxicp"
-    - title: "Solving the Aircraft Disassembly Scheduling Problem"
-      authors: "Charles Thomas and Pierre Schaus"
-      venue:
-      link: "assets/publi/aircraft.pdf"
-      code: "https://github.com/cftmthomas/AircraftDisassembly"
     - title: "Sequence Variables: A Constraint Programming Computational Domain for Routing and Sequencing"
       authors: "Augustin Delcluse, Pierre Schaus, Pascal Van Hentenryck"
-      venue: 
+      venue: ArXiv
       link: "assets/publi/seqvars.pdf"
       code: "https://github.com/aia-uclouvain/maxicp"
-    - title: "Anytime Optimal Decision Tree Learning with Continuous Features"
-      authors: "Harold Kiossou, Pierre Schaus, Siegfried Nijssen"
-      venue:
-      link: "assets/publi/lds_continuous.pdf "
-      code: "https://github.com/haroldks/pytrees-rs"
     - title: "Towards Bound Consistency for the No-Overlap Constraint Using MDDs"
       authors: "Amaury Guichard, Laurent Michel, Hélène Verhaeghe, Pierre Schaus"
-      venue:
+      venue: ArXiv
       link: "assets/publi/bc_nooverlap.pdf "
       code: "https://github.com/aia-uclouvain/maxicp"
-    - title: "Chronological Knowledge Retrieval: A Retrieval-Augmented Generation Approach to Construction Project Documentation"
-      authors: "Ioannis - Aris Kostis, Natalia Sanchiz, Steeve De Schryver, François Denis, Pierre Schaus"
-      venue:
-      link: "assets/publi/2026_rag.pdf "
-      code: "https://github.com/ikostis-ucl/bpc_meeting_assistant"
 
 
 
 - year: 2026
   papers:
+    - title: "Anytime Optimal Decision Tree Learning with Continuous Features"
+      authors: "Harold Kiossou, Pierre Schaus, Siegfried Nijssen"
+      venue: Accepted to ECML-PKDD2026
+      link: "assets/publi/lds_continuous.pdf "
+      code: "https://github.com/haroldks/pytrees-rs"
+    - title: "Solving the Aircraft Disassembly Scheduling Problem"
+      authors: "Charles Thomas and Pierre Schaus"
+      venue: Accepted to Journal of Scheduling
+      link: "assets/publi/js_2026_aircraft.pdf"
+      code: "https://github.com/cftmthomas/AircraftDisassembly"
+    - title: "Assembly Line Balancing with Parallel Stations and Shared Resources: A Cycle-Relative Constraint Programming Approach"
+      authors: "Diego Olivier Fernandez Pons, Pierre Schaus"
+      venue: "The 32nd International Conference on Principles and Practice of Constraint Programming (CP 2026), Lisbon, Portugal"
+      link: "assets/publi/cp2026_assemblyline.pdf"
+      code: "https://github.com/crespina/TactiCP"      
     - title: "An Offline Neuro-Symbolic Football Pattern Retrieval Approach Using Constraint Programming"
       authors: "Augustin Crespin, Pierre Schaus"
       venue: "The 32nd International Conference on Principles and Practice of Constraint Programming (CP 2026), Lisbon, Portugal"
@@ -55,6 +50,16 @@
       venue: "24nd International Symposium on Intelligent Data Analysis (IDA 2026),  Leiden, the Netherlands"
       link: "assets/publi/idea2026_anytime-beam-tree.pdf"
       code: "https://github.com/haroldks/pytrees-rs"
+    - title: "Chronological Knowledge Retrieval: A Retrieval-Augmented Generation Approach to Construction Project Documentation"
+      authors: "Ioannis - Aris Kostis, Natalia Sanchiz, Steeve De Schryver, François Denis, Pierre Schaus"
+      venue: ArXiv
+      link: "assets/publi/2026_rag.pdf "
+      code: "https://github.com/ikostis-ucl/bpc_meeting_assistant"  
+    - title: "ICLF: An Immersive Code Learning Framework based on Git for Teaching and Evaluating Student Programming Projects"
+      authors: "Pierre Schaus, Guillaume Derval, Augustin Delecluse"
+      venue: ArXiv
+      link: "assets/publi/iclf.pdf"
+      code: "https://github.com/OneAnonymizedUser/teacher-repository"
 
 
 - year: 2025

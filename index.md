@@ -41,9 +41,9 @@ Current Projects and collaboration
 <ul>
    <li> Dynamic Proggramming and MDD Solving, in collaboration with Emma Legrand, Roger Kameugne, and Cetic</li>
    <li> MDD for CP, in collaboration with Amaury Guichard, Hélène Verhaeghe</li>
-   <li> VRP in collaboration with Augustin Declecluse</li>
+   <li> Sequence Variables in collaboration with Augustin Declecluse (now at KULeuven)</li>
    <li> Networking Optimization and Machine Learning , collaboration with Christel Pelsser and Alice Burlat</li>
-   <li> LLM for construction, collaboration with Buildwise and Ioannis Kostis</li>
+   <li> LLM and RAG, collaboration with PEPPS and Ioannis Kostis</li>
    <li> AI-based Defect detection for rails, collaboration with PEPPS and Augustin Crespin</li>
    <li> CP MOOC and CP solvers (<a href="www.minicp.org">www.minicp.org</a>, <a href="www.maxicp">www.maxicp.org</a>), in collaboration with Laurent Michel, Pascal Van Hentenryck and Guillaume Derval</li>
 </ul>
@@ -63,5 +63,5 @@ Past projects
    <li> Migration analysis (GLOBMING ARC project), in collaboration with Frédéric Docquier and Siegfried Nijssen</li>
    <li> Learning and Optimization Models in collaboration with PSI Metals, Siegfried Nijssen, Tias Guns, Gael Aglin (Reconcile Innoviris Project Bxl)</li>
    <li> Intelligent Planning with Traxeo  (Deep Construct Walloon Region project)</li>
-   <li> Scheduling the unmounting of plances , (Planum Project, région Walllonne)</li>
+   <li> Scheduling the unmounting of planes, (Planum Project, région Walllonne)</li>
 </ul>

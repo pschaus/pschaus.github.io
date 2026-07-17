@@ -571,10 +571,10 @@
 
 - year: 2014
   papers:
-    - title: "Supervised Learning to Control Energetic Reasoning : Feasibility Study"
+    - title: "SEER: Supervised Learning to Control Energetic Reasoning"
       authors: "Sascha Van Cauwelaert, Michele Lombardi, and Pierre Schaus"
       venue: "In proceedings of CP 2014 Doctoral Program (CP2014), Lyon, France"
-      link: "assets/publi/cpdp2014_learning.pdf"
+      link: "assets/publi/cpdp2014_er.pdf"
       code:
     - title: "The StockingCost Constraint"
       authors: "Vinasétan Ratheil Houndji, Pierre Schaus, Laurence Wolsey and Yves Deville"

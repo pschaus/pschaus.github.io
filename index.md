@@ -33,6 +33,7 @@ Interests
    <li> Constraint Programming and Discrete Optimization </li>
    <li> Dynamic Programming, Decision Diagrams, Path-Finding and Anytime Optimization Algorithms </li>
    <li> Data-mining and Machine Learning </li>
+   <li> AI Exam Grading Tools (developer of the <a href="https://gradaly.io" target="_blank">Gradaly</a> software) </li>
    <li> Algorithms and data-structures in general</li>
    <li> Programming languages </li>
 </ul>

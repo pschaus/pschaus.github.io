@@ -3,6 +3,10 @@ layout: default
 title: Software
 ---
 
+<h3> Gradaly</h3>
+
+<a href="https://gradaly.io" target="_blank">Gradaly</a> is an AI grading assistant designed to streamline the correction of exams and assignments. It shifts the educator's focus to designing fine-grained, high-quality evaluation rubrics that AI systematically applies to student copies. Gradaly allows instructors to dynamically simulate the impact of criteria adjustments across entire cohorts, provide personalized feedback, and keep student data completely private with local, offline processing.
+
 <h3> DDOLib</h3>
 
 <a href="https://github.com/DDOLIB-CETIC-UCL/DDOLib"  target="_blank">DDOLib</a> DDOLib is a open-source (MIT) java solver for solving dynamic programming (DP) problems developped by the CETIC (team of Renaud De Landtsheer) and the UCLouvain (team of Pierre Schaus). It includes a modeling API for users to define their DP problem and solve them efficiently.

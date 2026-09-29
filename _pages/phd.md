@@ -14,8 +14,9 @@ PhD students
    <li> Alice Burlat (PhD student), start in Sept 2022, Optimization for the placement of monitors in computer networks (co-supervision Cristel Pelsser)</li>
    <li> Emma Legrand (PhD student), start in Sept 2023, Discrete Optimization with Decision Diagrams (co-supervision Daniele Catanzaro)</li>
    <li> Amaury Guichard (PhD student), start in Sept 2024, Decision Diagrams for CP (co-supervision Hélène Verhaeghe) </li>
-   <li> Ioannis Kostis (PhD student), start in Sept 2025, Detection if defects in rails </li>
-   <li> Augustin Crespin (PhD student), start in Sept 2025, Detection if defects in rails </li>
+   <li> Ioannis Kostis (PhD student), start in Sept 2025, Detection of defects in rails, RAG with temporal constraints </li>
+   <li> Augustin Crespin (PhD student), start in Sept 2025, Detection of defects in rails, Neuro-Symbolic Football Pattern Retrieval </li>
+   <li> Alexis Englebert (PhD student), Sequence Variables</li>
 </ol>
 
 Post-docs

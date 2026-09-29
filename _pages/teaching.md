@@ -47,6 +47,7 @@ Past
 
 <h3>Other (graduate-course)</h3>
 <ul>
+<li><a href="https://cp2026.a4cp.org/tutorials.html">CP 2026 Tutorial</a> "From CP Fundamentals with MiniCP to Solving Routing and Scheduling Applications with MaxiCP" (with Augustin Delecluse)</li>
 <li><a href="https://school.a4cp.org/summer2025/">ACP Summer School, Ouidah, Benin, 2025 </a> Lecturer</li>
 <li><a href="https://school.a4cp.org/winter2024">ACP Winter School, Aussois, France, 2024 </a> Lecturer</li>
 <li><a href="https://acp-iaro-school.sciencesconf.org">ACP Summer School, Toulouse, France, 2020 </a>Lecturer</li>

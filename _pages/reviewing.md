@@ -1,10 +1,16 @@
 ---
 layout: default
-title: Home
+title: Service
 ---
 
+<h3>Executive and Steering Committees</h3>
 
-<h3>Editorial Activites for Journals</h3>
+<ul>
+   <li> Member of the Executive Committee of the <a href="https://www.a4cp.org/about" target="_blank">Association for Constraint Programming (ACP)</a></li>
+   <li> Member of the Steering Committee of <a href="https://cpaior.org/#committee" target="_blank">CPAIOR</a> (International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research)</li>
+</ul>
+
+<h3>Editorial Activities for Journals</h3>
 
 <ul>
    <li> Associate Editor for <a href="https://www.sciencedirect.com/journal/artificial-intelligence/about/editorial-board">Artificial Intelligence (2024-current)</a></li>
@@ -48,6 +54,7 @@ I also review regularly papers for journal such as Constraints, INFORMS, Artific
 <h3>PhD Thesis Jury</h3>
 
 <ul>
+   <li>Margaux Schmied (Université Côte d'Azur, France), <a href="https://webusers.i3s.unice.fr/~schmied/#publications">Global Constraints of Cardinality and Costs</a>, 2026</li>
    <li>Steve Malalel (Université Côte d'Azur, France), <a href="TODO">Filtering algorithms for stochastic and multi-objective constraints</a>, 2025</li>
    <li>Julien Rouzot (Toulouse, INSA, France), <a href="https://theses.fr/s351232">Optimisation combinatoire et programmation par contraintes pour les missions spatiales : transferts de données, observations scientifiques et ordonnancement des opérations</a>, 2025</li>
    <li>Romain Fontaine (Lyon, INSA, France), <a href="https://theses.fr/2024ISAL0067">Exact and anytime heuristic search for the Time Dependent Traveling Salesman Problem with Time Windows</a>, 2024</li>

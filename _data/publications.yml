@@ -16,10 +16,13 @@
       link: "assets/publi/bc_nooverlap.pdf "
       code: "https://github.com/aia-uclouvain/maxicp"
 
-
-
 - year: 2026
   papers:
+    - title: "On the Equivalence of Disjunctive and Cumulative Models for Identical Parallel Machine Scheduling"
+      authors: "Pierre Schaus"
+      venue: Technical Report
+      link: "assets/publi/tr_equivalence_cumulative.pdf"
+      code:
     - title: "Anytime Optimal Decision Tree Learning with Continuous Features"
       authors: "Harold Kiossou, Pierre Schaus, Siegfried Nijssen"
       venue: Accepted to ECML-PKDD2026

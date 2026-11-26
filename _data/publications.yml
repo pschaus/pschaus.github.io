@@ -1,5 +1,10 @@
 - year: Working papers
   papers:
+    - title: "Automated Grading of Handwritten Assessments with Multimodal Large Language Models: Methodology and Empirical Evaluation"
+      authors: "Pierre Schaus, Benoît Ronval"
+      venue: Preprint
+      link: "assets/publi/2026_ai_grading.pdf"
+      code:
     - title: "Implementing Cumulative Functions with Generalized Cumulative Constraints"
       authors: "Pierre Schaus, Charles Thomas, Roger Kameugne"
       venue: ArXiv
